@@ -1,2 +1,2 @@
 # SE201
-Entry level Software Engineering Course
+Repo for Software Engineering Coursework
